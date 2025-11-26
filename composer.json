@@ -1,5 +1,5 @@
 {
-  "name": "php/app",
-  "description": "simple php app",
-  "require": {}
+  "require": {
+    "ext-pdo": "*"
+  }
 }
